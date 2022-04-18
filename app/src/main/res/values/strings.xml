@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaxKoltsovConverter</string>
+    <string name="From">From:</string>
+    <string name="To">To:</string>
+    <string name="Result"></string>
+    <string name="Button">CONVERT</string>
+</resources>
